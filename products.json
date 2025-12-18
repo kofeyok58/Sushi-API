@@ -48,14 +48,6 @@
     "description": "Креветка, огурец, сливочный сыр."
   },
   {
-    "id": 7,
-    "title": "Запечённый ролл",
-    "price": 500,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/baked_roll.png",
-    "category": "rolls",
-    "description": "Запечённый ролл с угрём и сыром."
-  },
-  {
     "id": 8,
     "title": "Гункан с лососем",
     "price": 160,
@@ -110,14 +102,6 @@
     "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/uramaki_unagi.png",
     "category": "rolls",
     "description": "Ролл с угрём, огурцом и кунжутом."
-  },
-  {
-    "id": 15,
-    "title": "Урамаки с тунцом",
-    "price": 430,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/uramaki_tuna.png",
-    "category": "rolls",
-    "description": "Тунец, огурец, сыр."
   },
   {
     "id": 16,
@@ -224,14 +208,6 @@
     "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/taiyaki.png",
     "category": "desserts",
     "description": "Фигурный ванильный вафельный пирожок."
-  },
-  {
-    "id": 29,
-    "title": "Ролл сладкий",
-    "price": 300,
-    "image": "https://raw.githubusercontent.com/kofeyok58/sushi-api/main/images/sweet_roll.png",
-    "category": "desserts",
-    "description": "Сладкий ролл с фруктами и кремом."
   },
   {
     "id": 30,
